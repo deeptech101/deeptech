@@ -1,0 +1,22 @@
+{
+  "name": "DeepAI",
+  "symbol": "DEEPTECH",
+  "description": "Communal hardware-crypto bridging.",
+  "image": "https://ibb.co/FswnsWV",
+  "external_url": "https://deeptech.ltd",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ibb.co/FswnsWV",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "AzsdePbuQyxKCYkzApG3MAEbnk1gZLP8pbvdShj2a86S",
+        "share": 100
+      }
+    ]
+  }
+}
